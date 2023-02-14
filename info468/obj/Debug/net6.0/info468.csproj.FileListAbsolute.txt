@@ -1,0 +1,15 @@
+C:\Users\Ivan\Desktop\Repo003\Ex034\info468\bin\Debug\net6.0\info468.exe
+C:\Users\Ivan\Desktop\Repo003\Ex034\info468\bin\Debug\net6.0\info468.deps.json
+C:\Users\Ivan\Desktop\Repo003\Ex034\info468\bin\Debug\net6.0\info468.runtimeconfig.json
+C:\Users\Ivan\Desktop\Repo003\Ex034\info468\bin\Debug\net6.0\info468.dll
+C:\Users\Ivan\Desktop\Repo003\Ex034\info468\bin\Debug\net6.0\info468.pdb
+C:\Users\Ivan\Desktop\Repo003\Ex034\info468\obj\Debug\net6.0\info468.csproj.AssemblyReference.cache
+C:\Users\Ivan\Desktop\Repo003\Ex034\info468\obj\Debug\net6.0\info468.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\Desktop\Repo003\Ex034\info468\obj\Debug\net6.0\info468.AssemblyInfoInputs.cache
+C:\Users\Ivan\Desktop\Repo003\Ex034\info468\obj\Debug\net6.0\info468.AssemblyInfo.cs
+C:\Users\Ivan\Desktop\Repo003\Ex034\info468\obj\Debug\net6.0\info468.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\Desktop\Repo003\Ex034\info468\obj\Debug\net6.0\info468.dll
+C:\Users\Ivan\Desktop\Repo003\Ex034\info468\obj\Debug\net6.0\refint\info468.dll
+C:\Users\Ivan\Desktop\Repo003\Ex034\info468\obj\Debug\net6.0\info468.pdb
+C:\Users\Ivan\Desktop\Repo003\Ex034\info468\obj\Debug\net6.0\info468.genruntimeconfig.cache
+C:\Users\Ivan\Desktop\Repo003\Ex034\info468\obj\Debug\net6.0\ref\info468.dll
